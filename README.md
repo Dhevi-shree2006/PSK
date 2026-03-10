@@ -133,6 +133,8 @@ plt.show()
 # QPSK
 <img width="1234" height="918" alt="image" src="https://github.com/user-attachments/assets/dc738c2c-afd2-4701-87c9-97195ba61c1f" />
 
+
+
 # Results
 The PSK and QPSK signals were successfully modulated and demodulated using CoLab
 
