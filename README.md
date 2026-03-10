@@ -126,8 +126,10 @@ plt.tight_layout(rect=[0,0,1,0.93])
 plt.show()
 ```
 # Output Waveform
+
 # PSK
 <img width="1239" height="1031" alt="image" src="https://github.com/user-attachments/assets/65a5410a-4c0c-4e30-8298-5e33f2ec2159" />
+
 # QPSK
 <img width="1234" height="918" alt="image" src="https://github.com/user-attachments/assets/dc738c2c-afd2-4701-87c9-97195ba61c1f" />
 
